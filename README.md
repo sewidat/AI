@@ -1,2 +1,2 @@
 # AI
-this Repo contains things for AI Course in BZU uni
+this Repo contains things for the AI Course in BZU uni
